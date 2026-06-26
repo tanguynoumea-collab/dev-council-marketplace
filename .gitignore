@@ -1,0 +1,12 @@
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Rapports d'audit produits dans les projets cibles (ne concernent pas ce repo)
+audits/
+
+# Divers
+*.log

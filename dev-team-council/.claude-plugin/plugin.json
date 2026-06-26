@@ -1,0 +1,17 @@
+{
+  "name": "dev-team-council",
+  "version": "0.1.0",
+  "description": "Audit multi-rôles et correction pilotée pour projets desktop .NET (C#/WPF, add-ins Revit, utilitaires). Équipe d'agents auditeurs spécialisés (architecte, mainteneur, tests, sécurité, fiabilité, données, packaging, conformité Autodesk), vérité-terrain par outils déterministes, mécanismes anti-sycophancy, et correcteur à portail de vérification à 4 portes.",
+  "author": {
+    "name": "DeDEL"
+  },
+  "keywords": [
+    "audit",
+    "code-review",
+    "dotnet",
+    "csharp",
+    "wpf",
+    "revit",
+    "desktop"
+  ]
+}

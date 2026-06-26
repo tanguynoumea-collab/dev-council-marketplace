@@ -1,0 +1,15 @@
+{
+  "name": "dev-council-marketplace",
+  "owner": {
+    "name": "DeDEL",
+    "url": "https://github.com/tanguynoumea-collab"
+  },
+  "plugins": [
+    {
+      "name": "dev-team-council",
+      "source": "./dev-team-council",
+      "description": "Audit multi-rôles et correction pilotée pour projets desktop .NET (C#/WPF, add-ins Revit). Agents auditeurs spécialisés + correcteur, vérité-terrain par outils déterministes, anti-sycophancy.",
+      "version": "0.1.0"
+    }
+  ]
+}
